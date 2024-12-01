@@ -1,0 +1,16 @@
+snake.c:24:6:draw_snake	24	static
+snake.c:29:6:draw_food	24	static
+snake.c:33:6:draw_head	24	static
+snake.c:37:6:draw_wall	24	static
+snake.c:41:6:clear_block	24	static
+snake.c:45:6:update_grid	16	static
+snake.c:67:6:delete_wall	16	static
+snake.c:77:6:init_grid	16	static
+snake.c:85:6:move_snake	32	static
+snake.c:112:6:re_init	8	static
+snake.c:131:6:spawn_food	16	static
+snake.c:141:6:spawn_wall	24	static
+snake.c:186:5:rand_no	24	static
+snake.c:191:6:check_collision	4	static
+snake.c:210:6:wait_check	4	static
+snake.c:234:6:check_food	16	static
